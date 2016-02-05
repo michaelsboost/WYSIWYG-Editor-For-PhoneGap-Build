@@ -1,0 +1,11 @@
+body {
+  padding: 1em;
+}
+
+textarea {
+  width: 100%;
+  padding: 0;
+  border: 0;
+  box-shadow: inset 0 0 2px #000;
+  resize: none;
+}
