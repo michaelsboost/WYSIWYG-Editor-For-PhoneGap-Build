@@ -3,7 +3,7 @@
   xmlns:gap   = "http://phonegap.com/ns/1.0"
   id          = "com.michael.wysiwygeditor"
   version     = "1.0.1"
-  versionCode = "14">
+  versionCode = "15">
   <name>
     WYSIWYG Editor
   </name>
