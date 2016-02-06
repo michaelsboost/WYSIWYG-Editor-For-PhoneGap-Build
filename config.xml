@@ -32,8 +32,6 @@
   <icon gap:platform="winphone" src="res/icon/windows-phone/icon-48.png" />
   <icon gap:platform="winphone" gap:role="background" src="res/icon/windows-phone/icon-173-tile.png" />
 
-  <preference name="orientation" value="default" />
-  <preference name="target-device" value="universal" />
-  <preference name="fullscreen" value="true" />
+  <preference name="permissions" value="none"/>
   <preference name="phonegap-version" value="cli-5.2.0" />
 </widget>
